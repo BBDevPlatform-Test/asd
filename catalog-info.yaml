@@ -4,7 +4,8 @@ metadata:
   name: asd
   annotations:
     github.com/project-slug: BBDevPlatform-Test/asd
-    backstage.io/techdocs-ref: README.md
+    backstage.io/techdocs-ref: 
+      dir: .
 spec:
   type: other
   lifecycle: unknown
