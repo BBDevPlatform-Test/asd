@@ -1,2 +1,3 @@
 site_name: Hello
-docs_dir: ./
+nav:
+  - Home: README.md
